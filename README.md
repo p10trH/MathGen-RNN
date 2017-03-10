@@ -28,3 +28,4 @@ However, it is still interesting to observe the output and discover any patterns
 More specifically, the number "500" is very interesting. When you input this number, all generated solutions are correct, as seen in the image below!
 
 ![alt text](screenShots/mathGen_500example.png "example of interesting output")
+
