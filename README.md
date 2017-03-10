@@ -26,3 +26,5 @@ Most numbers generate incorrect solutions. This is mostly due to our quick train
 However, it is still interesting to observe the output and discover any patterns that might exist. For starters, the RNN was able to learn the structure of an addition problem and knew where to include "+" and "=" symbols along with the numbers. This was consistent, but sometimes the structure was completely wrong. An example of this is shown at the end of the demo video.
 
 More specifically, the number "500" is very interesting. When you input this number, all generated solutions are correct, as seen in the image below!
+
+![alt text](screenShots/mathGen_500example.png "example of interesting output")
