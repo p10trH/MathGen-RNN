@@ -10,6 +10,9 @@ Mostly reused code from https://github.com/hunkim/word-rnn-tensorflow by Sung Ki
 # Requirements
 - [Tensorflow](http://www.tensorflow.org)
 
+link to raw and trained data:
+https://drive.google.com/file/d/0B8wjYiEPBZyvRG9QRHNqYS1NaGM/view?usp=sharing
+
 # Basic Usage
 To start the GUI and sample from a trained model.
 ```bash
@@ -19,6 +22,8 @@ The idea is to input a number (in this case up to 998), and a solution will be g
 
 # Demo
 https://youtu.be/23N4JtNT64k
+
+
 
 # Results
 Most numbers generate incorrect solutions. This is mostly due to our quick training of the data and not validating solutions during the training step. This was a quick experiment, so we will have to work on it more to achieve better results.
